@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176753/rus/14.12.2022
+source: https://zan.gov.kz/client/#!/doc/176753/rus/14.04.2023
 ---
 
 > *Приложение 2 к решению маслихата области Жетісу от 14 декабря 2022 года № 13-39*
