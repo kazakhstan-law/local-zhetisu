@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176772/rus/22.12.2022
+source: https://zan.gov.kz/client/#!/doc/176772/rus/27.04.2023
 ---
 
 > *Приложение 3 к решению Талдыкорганского городского маслихата от 22 декабря2022 года № 199*
