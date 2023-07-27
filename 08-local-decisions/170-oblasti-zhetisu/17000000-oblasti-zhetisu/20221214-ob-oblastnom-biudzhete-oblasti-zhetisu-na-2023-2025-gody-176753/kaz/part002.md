@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176753/kaz/14.04.2023
+source: https://zan.gov.kz/client/#!/doc/176753/kaz/27.07.2023
 ---
 
 > *Жетісу облыстық мәслихатының 2022 жылғы 14 желтоқсандағы № 13-39 шешіміне 2- қосымша*
