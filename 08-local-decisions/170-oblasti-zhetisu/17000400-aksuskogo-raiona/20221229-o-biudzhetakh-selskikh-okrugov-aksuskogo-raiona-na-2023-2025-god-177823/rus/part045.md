@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177823/rus/02.05.2023
+source: https://zan.gov.kz/client/#!/doc/177823/rus/10.08.2023
 ---
 
 > *Приложение 45 к решению Аксуского районного маслихата от «29» декабря 2022 года № 37-138*
