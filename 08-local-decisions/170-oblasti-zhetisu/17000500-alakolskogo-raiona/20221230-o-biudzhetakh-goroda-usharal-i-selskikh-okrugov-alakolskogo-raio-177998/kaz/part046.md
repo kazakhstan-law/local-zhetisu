@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177998/kaz/05.05.2023
+source: https://zan.gov.kz/client/#!/doc/177998/kaz/11.08.2023
 ---
 
 > *Алакөл аудандық мәслихатының 2022 жылғы «30» желтоқсандағы № 38-6 шешіміне 46-қосымша*

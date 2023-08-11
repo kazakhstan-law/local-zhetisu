@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177998/rus/05.05.2023
+source: https://zan.gov.kz/client/#!/doc/177998/rus/11.08.2023
 ---
 
 > *Приложение 47 к решению Алакольского районного маслихата от «30» декабря 2022 года № 38-6*
