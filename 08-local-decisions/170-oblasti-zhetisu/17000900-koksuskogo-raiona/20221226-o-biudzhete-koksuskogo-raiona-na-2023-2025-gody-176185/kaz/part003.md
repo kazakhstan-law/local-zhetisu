@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176185/kaz/04.08.2023
+source: https://zan.gov.kz/client/#!/doc/176185/kaz/12.09.2023
 ---
 
 > *Көксу ауданы мәслихатының 2022 жылғы 26 желтоқсандағы № 38-2 шешіміне 3-қосымша*
