@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176772/kaz/03.08.2023
+source: https://zan.gov.kz/client/#!/doc/176772/kaz/15.11.2023
 ---
 
 > *Талдықорған қалалық мәслихатының 2022 жылғы 22 желтоқсандағы № 199 шешіміне 3-қосымша*
