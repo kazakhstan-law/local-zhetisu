@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177290/kaz/14.09.2023
+source: https://zan.gov.kz/client/#!/doc/177290/kaz/17.11.2023
 ---
 
 > *Сарқан аудандық мәслихатының 2022 жылғы 29 желтоқсандағы № 34-132 шешіміне 3 қосымша*
