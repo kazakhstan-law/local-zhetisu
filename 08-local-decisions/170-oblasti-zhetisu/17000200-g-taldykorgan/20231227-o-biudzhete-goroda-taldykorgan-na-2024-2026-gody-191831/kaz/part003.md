@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191831/kaz/27.12.2023
+source: https://zan.gov.kz/client/#!/doc/191831/kaz/05.04.2024
 ---
 
 > *Талдықорған қалалық мәслихатының 2023 жылғы 27 желтоқсандағы № 14-83 шешіміне 3-қосымша*
