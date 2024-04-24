@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192130/kaz/27.12.2023
+source: https://zan.gov.kz/client/#!/doc/192130/kaz/24.04.2024
 ---
 
 > *Қаратал аудандық мәслихатының 2023 жылғы «27» желтоқсандағы № 16-57 шешіміне 17-қосымша*
