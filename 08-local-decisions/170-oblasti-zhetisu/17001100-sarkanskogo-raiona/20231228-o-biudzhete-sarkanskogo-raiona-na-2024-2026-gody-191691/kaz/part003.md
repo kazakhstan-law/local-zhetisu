@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191691/kaz/05.04.2024
+source: https://zan.gov.kz/client/#!/doc/191691/kaz/28.05.2024
 ---
 
 > *Сарқан аудандық мәслихатының 2023 жылғы 28 желтоқсандағы № 17-68 шешіміне 3-қосымша*
