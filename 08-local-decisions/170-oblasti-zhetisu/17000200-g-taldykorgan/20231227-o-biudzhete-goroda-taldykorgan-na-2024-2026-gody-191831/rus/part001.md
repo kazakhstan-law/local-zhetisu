@@ -1,300 +1,297 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
+source: https://zan.gov.kz/client/#!/doc/191831/rus/30.05.2024
 ---
 
-> *Приложение 1 к решению Талдыкорганского городского маслихата от 27 декабря 2023 года № 14-83*
+> *Приложение 1 к решению Талдыкорганского городского маслихата от 27 декабря 2023 года №14-83*
 
 # Бюджет города на 2024 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата города Талдыкорган области Жетісу от 05.04.2024 № 19-115 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решениями маслихата города Талдыкорган области Жетісу от 05.04.2024 № 19-115 (вводится в действие с 01.01.2024); от 30.05.2024 № 22-132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
 <td colspan="8">Категория</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
 <td colspan="3">Наименование</td>
-<td colspan="2">Сумма</td>
+<td>Сумма</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Подкласс</td>
-<td colspan="2">(тысяч тенге)</td>
+<td>(тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Доходы</td>
-<td colspan="2">52 127 894</td>
+<td>51 877 894</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступления</td>
-<td colspan="2">8 831 253</td>
+<td>8 831 253</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">4 877 503</td>
+<td>4 877 503</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Корпоративный подоходный налог</td>
-<td colspan="2">3 047 942</td>
+<td>3 047 942</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">1 829 561</td>
+<td>1 829 561</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">1 704 750</td>
+<td>1 704 750</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">687 073</td>
+<td>687 073</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td colspan="2">117 727</td>
+<td>117 727</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">896 350</td>
+<td>896 350</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3">Единый земельный налог</td>
-<td colspan="2">3 600</td>
+<td>3 600</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">949 000</td>
+<td>949 000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Акцизы</td>
-<td colspan="2">46 500</td>
+<td>46 500</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">20 500</td>
+<td>20 500</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">882 000</td>
+<td>882 000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">8</td>
 <td colspan="2"></td>
 <td colspan="3">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td colspan="2">1 300 000</td>
+<td>1 300 000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Государственная пошлина</td>
-<td colspan="2">1 300 000</td>
+<td>1 300 000</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Неналоговые поступления</td>
-<td colspan="2">925 707</td>
+<td>925 707</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3">Доходы от государственной собственности</td>
-<td colspan="2">166 765</td>
+<td>166 765</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Поступление части чистого дохода государственных предприятий</td>
-<td colspan="2">105 856</td>
+<td>105 856</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">60 060</td>
+<td>60 060</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">7</td>
 <td colspan="3">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td colspan="2">849</td>
+<td>849</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3">Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
-<td colspan="2">88</td>
+<td>88</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
-<td colspan="2">88</td>
+<td>88</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="3">Поступление денег от проведения государственных закупок, организуемых государственными учреждениями, финансируемыми из государственного бюджета</td>
-<td colspan="2">4 372</td>
+<td>4 372</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Поступление денег от проведения государственных закупок, организуемых государственными учреждениями, финансируемыми из государственного бюджета</td>
-<td colspan="2">4 372</td>
+<td>4 372</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td colspan="2">87 655</td>
+<td>87 655</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td colspan="2">87 655</td>
+<td>87 655</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">6</td>
 <td colspan="2"></td>
 <td colspan="3">Прочие неналоговые поступления</td>
-<td colspan="2">666 827</td>
+<td>666 827</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Прочие неналоговые поступления</td>
-<td colspan="2">666 827</td>
+<td>666 827</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления от продажи основного капитала</td>
-<td colspan="2">12 572 453</td>
+<td>12 572 453</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
-<td colspan="2">12 364 299</td>
+<td>12 364 299</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
-<td colspan="2">12 364 299</td>
+<td>12 364 299</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="3">Продажа земли и нематериальных активов</td>
-<td colspan="2">208 154</td>
+<td>208 154</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Продажа земли</td>
-<td colspan="2">206 000</td>
+<td>206 000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Продажа нематериальных активов</td>
-<td colspan="2">2 154</td>
+<td>2 154</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">29 798 481</td>
+<td>29 548 481</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">29 798 481</td>
+<td>29 548 481</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td colspan="2">29 798 481</td>
+<td>29 548 481</td>
 </tr>
-</table>
-
-<table>
 </table>
 
 <table>
@@ -330,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>II. Затраты</td>
-<td>41 638 743</td>
+<td>43 321 898</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -338,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>1 393 790</td>
+<td>1 398 790</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -410,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Финансовая деятельность</td>
-<td>172 911</td>
+<td>177 911</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -418,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2">452</td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>172 911</td>
+<td>177 911</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -426,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>56 545</td>
+<td>61 545</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -610,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>5 241 899</td>
+<td>5 244 223</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -730,7 +727,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>961 410</td>
+<td>963 734</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -738,7 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2">451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>663 410</td>
+<td>665 734</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -770,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>028</td>
 <td>Услуги лицам из групп риска, попавшим в сложную ситуацию вследствие насилия или угрозы насилия</td>
-<td>148 545</td>
+<td>150 869</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -826,7 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>15 786 511</td>
+<td>17 712 342</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -834,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>8 887 737</td>
+<td>10 813 568</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -842,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2">463</td>
 <td></td>
 <td>Отдел земельных отношений района (города областного значения)</td>
-<td>322 073</td>
+<td>22 073</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -850,7 +847,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>016</td>
 <td>Изъятие земельных участков для государственных нужд</td>
-<td>322 073</td>
+<td>22 073</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -858,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2">467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>4 431 579</td>
+<td>6 657 410</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -874,7 +871,15 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>1 709 461</td>
+<td>2 009 461</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>098</td>
+<td>Приобретение жилья коммунального жилищного фонда</td>
+<td>1 925 831</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -890,7 +895,15 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области жилищного фонда</td>
-<td>18 260</td>
+<td>18 056</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>005</td>
+<td>Капитальные расходы государственного органа</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1122,7 +1135,15 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
-<td>14 804</td>
+<td>14 600</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Капитальные расходы государственного органа</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1303,9 +1324,9 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">487</td>
+<td colspan="2">497</td>
 <td></td>
-<td>Отдел жилищно-коммунального хозяйства и жилищной инспекций района (города областного значения)</td>
+<td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
 <td>1 846 650</td>
 </tr>
 <tr>
@@ -1490,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>10 977 906</td>
+<td>10 727 906</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1498,7 +1519,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>7 315 269</td>
+<td>7 065 269</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1506,7 +1527,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2">485</td>
 <td></td>
 <td>Отдел пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>7 315 269</td>
+<td>7 065 269</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1514,7 +1535,7 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td colspan="2"></td>
 <td>022</td>
 <td>Развитие транспортной инфраструктуры</td>
-<td>3 466 019</td>
+<td>3 216 019</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1989,56 +2010,56 @@ source: https://zan.gov.kz/client/#!/doc/191831/rus/05.04.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>10 435 805</td>
+<td>8 502 650</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>-10 435 805</td>
+<td>-8 502 650</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
 <td></td>
 <td>Поступление займов</td>
-<td>519 922</td>
+<td>2 445 753</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>519 922</td>
+<td>2 445 753</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Договоры займа</td>
-<td>519 922</td>
+<td>2 445 753</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>1 260 963</td>
+<td>1 268 287</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>1 260 963</td>
+<td>1 268 287</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>1 260 963</td>
+<td>1 268 287</td>
 </tr>
 </table>
 
