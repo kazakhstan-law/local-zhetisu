@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191711/rus/16.04.2024
+source: https://zan.gov.kz/client/#!/doc/191711/rus/07.06.2024
 ---
 
 > *Приложение 29 к решению Сарканского районного маслихата от 28 декабря 2023 года № 17-69*
