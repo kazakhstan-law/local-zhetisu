@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192670/kaz/12.04.2024
+source: https://zan.gov.kz/client/#!/doc/192670/kaz/07.06.2024
 ---
 
 > *Алакөл аудандық мәслихатының 2023 жылғы «29» желтоқсандағы № 19-1 шешіміне 16-қосымша*
