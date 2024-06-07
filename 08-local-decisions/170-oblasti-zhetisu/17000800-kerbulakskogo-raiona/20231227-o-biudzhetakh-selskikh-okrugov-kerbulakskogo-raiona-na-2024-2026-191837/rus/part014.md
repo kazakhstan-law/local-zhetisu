@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
+source: https://zan.gov.kz/client/#!/doc/191837/rus/07.06.2024
 ---
 
 > *Приложение 14 к решению Кербулакского районного маслихата от 27 декабря 2023 года № 10-89*
@@ -1013,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 
 # Бюджет Коксуского сельского округа на 2024 год
 
-> *Сноска. Приложение 16 в редакции решения Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 16 в редакции решениями Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024); от 07.06.2024 № 16-137 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1029,18 +1029,18 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>65 935</td>
+<td>66 050</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1117,21 +1117,21 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>60 150</td>
+<td>60 265</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>60 150</td>
+<td>60 265</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>60 150</td>
+<td>60 265</td>
 </tr>
 </table>
 
@@ -1153,12 +1153,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1166,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>66 967</td>
+<td>67 082</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1174,7 +1174,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>35 601</td>
+<td>35 716</td>
 </tr>
 <tr>
 <td></td>
@@ -1182,7 +1182,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>35 601</td>
+<td>35 716</td>
 </tr>
 <tr>
 <td></td>
@@ -1190,7 +1190,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>35 601</td>
+<td>35 716</td>
 </tr>
 <tr>
 <td></td>
@@ -1198,7 +1198,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>34 819</td>
+<td>34 934</td>
 </tr>
 <tr>
 <td></td>
@@ -1300,12 +1300,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1339,11 +1339,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1386,12 +1386,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1417,11 +1417,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1499,12 +1499,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4055,7 +4055,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 
 # Бюджет Басшийского сельского округа на 2024 год
 
-> *Сноска. Приложение 22 в редакции решения Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 22 в редакции решениями Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024); от 07.06.2024 № 16-137 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -4071,18 +4071,18 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>55 398</td>
+<td>55 513</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4145,21 +4145,21 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>47 238</td>
+<td>47 353</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>47 238</td>
+<td>47 353</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>47 238</td>
+<td>47 353</td>
 </tr>
 </table>
 
@@ -4181,12 +4181,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4194,7 +4194,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>55 845</td>
+<td>55 960</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4202,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>51 943</td>
+<td>52 058</td>
 </tr>
 <tr>
 <td></td>
@@ -4210,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>51 943</td>
+<td>52 028</td>
 </tr>
 <tr>
 <td></td>
@@ -4218,7 +4218,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>51 943</td>
+<td>52 028</td>
 </tr>
 <tr>
 <td></td>
@@ -4226,7 +4226,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>42 823</td>
+<td>44 348</td>
 </tr>
 <tr>
 <td></td>
@@ -4234,7 +4234,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>9 090</td>
+<td>7 680</td>
 </tr>
 <tr>
 <td></td>
@@ -4328,12 +4328,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4367,11 +4367,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4414,12 +4414,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4445,11 +4445,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -4527,12 +4527,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -5530,7 +5530,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 
 # Бюджет Шанханайского сельского округа на 2024 год
 
-> *Сноска. Приложение 25 в редакции решения Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 25 в редакции решениями Кербулакского районного маслихата области Жетісу от 19.04.2024 № 14-121 (вводится в действие с 01.01.2024); от 07.06.2024 № 16-137 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -5546,18 +5546,18 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>53 275</td>
+<td>54 275</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5634,21 +5634,21 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>40 062</td>
+<td>41 062</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>40 062</td>
+<td>41 062</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>40 062</td>
+<td>41 062</td>
 </tr>
 </table>
 
@@ -5670,12 +5670,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5683,7 +5683,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>53 807</td>
+<td>54 807</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5691,7 +5691,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>47 227</td>
+<td>48 227</td>
 </tr>
 <tr>
 <td></td>
@@ -5699,7 +5699,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>47 227</td>
+<td>48 227</td>
 </tr>
 <tr>
 <td></td>
@@ -5707,7 +5707,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>47 227</td>
+<td>48 227</td>
 </tr>
 <tr>
 <td></td>
@@ -5715,7 +5715,7 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>47 137</td>
+<td>48 137</td>
 </tr>
 <tr>
 <td></td>
@@ -5849,12 +5849,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5888,11 +5888,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5935,12 +5935,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5966,11 +5966,11 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -6048,12 +6048,12 @@ source: https://zan.gov.kz/client/#!/doc/191837/rus/19.04.2024
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
