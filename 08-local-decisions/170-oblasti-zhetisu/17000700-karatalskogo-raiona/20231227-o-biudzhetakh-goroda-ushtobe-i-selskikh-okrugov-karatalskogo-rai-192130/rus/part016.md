@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192130/rus/24.04.2024
+source: https://zan.gov.kz/client/#!/doc/192130/rus/12.06.2024
 ---
 
 > *Приложение 16 к решению Каратальского районного маслихата от «27» декабря 2023 года № 16-57*
