@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190684/kaz/28.06.2024
+source: https://zan.gov.kz/client/#!/doc/190684/kaz/16.09.2024
 ---
 
 > *Жетісу облыстық мәслихатының 2023 жылғы 15 желтоқсандағы № 11-64 шешіміне 2 қосымша*
