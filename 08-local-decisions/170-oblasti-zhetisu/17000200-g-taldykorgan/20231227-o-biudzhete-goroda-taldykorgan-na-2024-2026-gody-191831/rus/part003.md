@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191831/rus/30.05.2024
+source: https://zan.gov.kz/client/#!/doc/191831/rus/20.09.2024
 ---
 
 > *Приложение 3к решению Талдыкорганского городского маслихата от 27 декабря 2023 года № 14-83*
