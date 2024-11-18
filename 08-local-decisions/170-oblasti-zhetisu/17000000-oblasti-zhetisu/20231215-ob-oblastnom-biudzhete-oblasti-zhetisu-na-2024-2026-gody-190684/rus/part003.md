@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/190684/rus/16.09.2024
+source: https://zan.gov.kz/client/#!/doc/190684/rus/18.11.2024
 ---
 
 > *Приложение 3 к решению маслихата области Жетісу от 15 декабря 2023 года № 11-64*
