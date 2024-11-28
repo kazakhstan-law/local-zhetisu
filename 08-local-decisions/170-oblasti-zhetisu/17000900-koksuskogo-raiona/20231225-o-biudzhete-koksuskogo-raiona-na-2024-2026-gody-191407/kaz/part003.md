@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191407/kaz/26.09.2024
+source: https://zan.gov.kz/client/#!/doc/191407/kaz/28.11.2024
 ---
 
 > *Көксу ауданы мәслихатының 2023 жылғы 25 желтоқсандағы № 17-65 шешіміне 3-қосымша*
