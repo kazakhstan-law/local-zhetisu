@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204625/kaz/11.12.2024
+source: https://zan.gov.kz/client/#!/doc/204625/kaz/22.01.2025
 ---
 
 > *Жетісу облыстық мәслихатының 2024 жылғы 11 желтоқсандағы № 24-143 шешіміне 3- қосымша*
