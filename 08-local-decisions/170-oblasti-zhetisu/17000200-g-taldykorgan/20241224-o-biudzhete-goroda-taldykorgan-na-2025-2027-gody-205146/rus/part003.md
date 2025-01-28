@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205146/rus/24.12.2024
+source: https://zan.gov.kz/client/#!/doc/205146/rus/28.01.2025
 ---
 
 > *Приложение 3 к решению Талдыкорганского городского маслихата от 24 декабря 2024 года №29-174*
