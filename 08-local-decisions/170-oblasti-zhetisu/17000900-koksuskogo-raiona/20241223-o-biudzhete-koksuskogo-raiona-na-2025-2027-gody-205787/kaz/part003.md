@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205787/kaz/23.12.2024
+source: https://zan.gov.kz/client/#!/doc/205787/kaz/05.02.2025
 ---
 
 > *Көксу ауданы мәслихатының 2024 жылғы 23 желтоқсандағы № 36-142 шешіміне 3-қосымша*
