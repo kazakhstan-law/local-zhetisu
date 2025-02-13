@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206160/rus/30.12.2024
+source: https://zan.gov.kz/client/#!/doc/206160/rus/13.02.2025
 ---
 
 > *Приложение 1 к решению Аксуского районного маслихата от «30» декабря 2024 года № 47-208*
