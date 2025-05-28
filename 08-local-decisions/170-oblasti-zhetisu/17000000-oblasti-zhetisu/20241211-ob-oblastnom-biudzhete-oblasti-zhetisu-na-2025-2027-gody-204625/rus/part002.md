@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/204625/rus/22.01.2025
+source: https://zan.gov.kz/client/#!/doc/204625/rus/28.05.2025
 ---
 
 > *Приложение 2 к решению маслихата области Жетісу от 11 декабря 2024 года № 24-143*
