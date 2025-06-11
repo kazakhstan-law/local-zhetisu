@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205162/rus/30.01.2025
+source: https://zan.gov.kz/client/#!/doc/205162/rus/11.06.2025
 ---
 
 > *Приложение 3 к решению Сарканского районного маслихата от «26» декабря 2024 года №35-140*
