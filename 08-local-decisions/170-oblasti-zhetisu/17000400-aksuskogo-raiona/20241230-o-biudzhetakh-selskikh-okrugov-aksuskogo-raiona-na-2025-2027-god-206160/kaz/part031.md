@@ -1,33 +1,38 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
+source: https://zan.gov.kz/client/#!/doc/206160/kaz/12.06.2025
 ---
 
 > *Ақсу аудандық мәслихатының 2024 жылғы «30» желтоқсандағы № 47-208 шешіміне 31-қосымша*
 
-# 2025 жылға арналған Қарашілік ауылдық округінің бюджеті
-
-> *Ескерту. 31-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
-
 <table>
 <tr>
+<td colspan="6">
+<strong>2025 жылға арналған Қарашілік ауылдық округінің бюджеті</strong>
+Ескерту. 31-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі); 12.06.2025 № 55-240 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
+</td>
+</tr>
+<tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -35,6 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -50,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>64 811</td>
+<td>62 711</td>
 </tr>
 <tr>
 <td>1</td>
@@ -138,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>54 481</td>
+<td>52 381</td>
 </tr>
 <tr>
 <td></td>
@@ -146,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>54 481</td>
+<td>52 381</td>
 </tr>
 <tr>
 <td></td>
@@ -154,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>54 481</td>
+<td>52 381</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>20 546</td>
+<td>18 446</td>
 </tr>
 <tr>
 <td></td>
@@ -177,22 +183,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -200,6 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -215,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>68 199</td>
+<td>66 099</td>
 </tr>
 <tr>
 <td>01</td>
@@ -223,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48 644</td>
+<td>50 144</td>
 </tr>
 <tr>
 <td></td>
@@ -231,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48 644</td>
+<td>50 144</td>
 </tr>
 <tr>
 <td></td>
@@ -239,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48 644</td>
+<td>50 144</td>
 </tr>
 <tr>
 <td></td>
@@ -247,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>47 744</td>
+<td>49 244</td>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>18 355</td>
+<td>14 755</td>
 </tr>
 <tr>
 <td></td>
@@ -271,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>18 355</td>
+<td>14 755</td>
 </tr>
 <tr>
 <td></td>
@@ -279,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18 355</td>
+<td>14 755</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2 035</td>
+<td>4 035</td>
 </tr>
 <tr>
 <td></td>
@@ -303,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>15 180</td>
+<td>9 580</td>
 </tr>
 <tr>
 <td>12</td>
@@ -342,22 +352,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -365,6 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -392,22 +406,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -446,22 +463,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -469,6 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -488,22 +509,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -535,22 +559,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -596,22 +623,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -619,6 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1316,29 +1347,34 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 
 > *Ақсу аудандық мәслихатының 2024 жылғы «30» желтоқсандағы № 47-208 шешіміне 34-қосымша*
 
-# 2025 жылға арналған Көшкентал ауылдық округінің бюджеті
-
-> *Ескерту. 34-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
-
 <table>
 <tr>
+<td colspan="6">
+<strong>2025 жылға арналған Көшкентал ауылдық округінің бюджеті</strong>
+Ескерту. 34-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі); 12.06.2025 № 55-240 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
+</td>
+</tr>
+<tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1346,6 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1361,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>41 222</td>
+<td>47 722</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1441,7 +1478,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>36 432</td>
+<td>42 932</td>
 </tr>
 <tr>
 <td></td>
@@ -1449,7 +1486,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>36 432</td>
+<td>42 932</td>
 </tr>
 <tr>
 <td></td>
@@ -1457,7 +1494,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>36 432</td>
+<td>42 932</td>
 </tr>
 <tr>
 <td></td>
@@ -1465,7 +1502,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>6 472</td>
+<td>12 972</td>
 </tr>
 <tr>
 <td></td>
@@ -1480,22 +1517,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1503,6 +1543,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1518,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>43 259</td>
+<td>49 759</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1526,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>36 769</td>
+<td>40 269</td>
 </tr>
 <tr>
 <td></td>
@@ -1534,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>36 769</td>
+<td>40 269</td>
 </tr>
 <tr>
 <td></td>
@@ -1542,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36 769</td>
+<td>40 269</td>
 </tr>
 <tr>
 <td></td>
@@ -1550,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>35 869</td>
+<td>39 369</td>
 </tr>
 <tr>
 <td></td>
@@ -1566,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5 290</td>
+<td>8 290</td>
 </tr>
 <tr>
 <td></td>
@@ -1574,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>5 290</td>
+<td>8 290</td>
 </tr>
 <tr>
 <td></td>
@@ -1582,7 +1623,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 290</td>
+<td>8 290</td>
 </tr>
 <tr>
 <td></td>
@@ -1590,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>400</td>
+<td>3 400</td>
 </tr>
 <tr>
 <td></td>
@@ -1645,22 +1686,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1668,6 +1712,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1695,22 +1740,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1749,22 +1797,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1772,6 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1791,22 +1843,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1838,22 +1893,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1899,22 +1957,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1922,6 +1983,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -2603,29 +2665,34 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 
 > *Ақсу аудандық мәслихатының 2024 жылғы «30» желтоқсандағы № 47-208 шешіміне 37-қосымша*
 
-# 2025 жылға арналған Қызылағаш ауылдық округінің бюджеті
-
-> *Ескерту. 37-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
-
 <table>
 <tr>
+<td colspan="6">
+<strong>2025 жылға арналған Қызылағаш ауылдық округінің бюджеті</strong>
+Ескерту. 37-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі); 12.06.2025 № 55-240 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
+</td>
+</tr>
+<tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2633,6 +2700,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -2648,7 +2716,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>73 817</td>
+<td>72 817</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2728,7 +2796,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>55 767</td>
+<td>54 767</td>
 </tr>
 <tr>
 <td></td>
@@ -2736,7 +2804,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>55 767</td>
+<td>54 767</td>
 </tr>
 <tr>
 <td></td>
@@ -2744,7 +2812,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>55 767</td>
+<td>54 767</td>
 </tr>
 <tr>
 <td></td>
@@ -2752,7 +2820,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>27 381</td>
+<td>26 381</td>
 </tr>
 <tr>
 <td></td>
@@ -2767,22 +2835,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2790,6 +2861,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -2805,7 +2877,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>78 356</td>
+<td>77 356</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2813,7 +2885,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48 627</td>
+<td>49 627</td>
 </tr>
 <tr>
 <td></td>
@@ -2821,7 +2893,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48 627</td>
+<td>49 627</td>
 </tr>
 <tr>
 <td></td>
@@ -2829,7 +2901,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48 627</td>
+<td>49 627</td>
 </tr>
 <tr>
 <td></td>
@@ -2837,7 +2909,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>47 727</td>
+<td>48 727</td>
 </tr>
 <tr>
 <td></td>
@@ -2853,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>28 729</td>
+<td>26 729</td>
 </tr>
 <tr>
 <td></td>
@@ -2861,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>28 729</td>
+<td>26 729</td>
 </tr>
 <tr>
 <td></td>
@@ -2869,7 +2941,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28 729</td>
+<td>26 729</td>
 </tr>
 <tr>
 <td></td>
@@ -2893,7 +2965,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>21 789</td>
+<td>19 789</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2932,22 +3004,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2955,6 +3030,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -2982,22 +3058,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3036,22 +3115,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3059,6 +3141,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3078,22 +3161,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3125,22 +3211,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3186,22 +3275,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3209,6 +3301,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3890,29 +3983,34 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 
 > *Ақсу аудандық мәслихатының 2024 жылғы «30» желтоқсандағы № 47-208 шешіміне 40-қосымша*
 
-# 2025 жылға арналған Матай ауылдық округінің бюджеті
-
-> *Ескерту. 40-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
-
 <table>
 <tr>
+<td colspan="6">
+<strong>2025 жылға арналған Матай ауылдық округінің бюджеті</strong>
+Ескерту. 40-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі); 12.06.2025 № 55-240 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
+</td>
+</tr>
+<tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3920,6 +4018,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -3935,7 +4034,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>69 160</td>
+<td>75 055</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4039,7 +4138,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>46 970</td>
+<td>52 865</td>
 </tr>
 <tr>
 <td></td>
@@ -4047,7 +4146,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>46 970</td>
+<td>52 865</td>
 </tr>
 <tr>
 <td></td>
@@ -4055,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>46 970</td>
+<td>52 865</td>
 </tr>
 <tr>
 <td></td>
@@ -4063,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>21 727</td>
+<td>27 622</td>
 </tr>
 <tr>
 <td></td>
@@ -4078,22 +4177,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4101,6 +4203,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4116,7 +4219,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>75 267</td>
+<td>81 162</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4124,7 +4227,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48 415</td>
+<td>52 310</td>
 </tr>
 <tr>
 <td></td>
@@ -4132,7 +4235,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48 415</td>
+<td>52 310</td>
 </tr>
 <tr>
 <td></td>
@@ -4140,7 +4243,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48 415</td>
+<td>52 310</td>
 </tr>
 <tr>
 <td></td>
@@ -4148,7 +4251,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>47 515</td>
+<td>51 410</td>
 </tr>
 <tr>
 <td></td>
@@ -4164,7 +4267,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>25 652</td>
+<td>27 652</td>
 </tr>
 <tr>
 <td></td>
@@ -4172,7 +4275,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>25 652</td>
+<td>27 652</td>
 </tr>
 <tr>
 <td></td>
@@ -4180,7 +4283,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25 652</td>
+<td>27 652</td>
 </tr>
 <tr>
 <td></td>
@@ -4188,7 +4291,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>3 115</td>
+<td>5 115</td>
 </tr>
 <tr>
 <td></td>
@@ -4243,22 +4346,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4266,6 +4372,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4293,22 +4400,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4347,22 +4457,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4370,6 +4483,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4389,22 +4503,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4436,22 +4553,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4497,22 +4617,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4520,6 +4643,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5249,29 +5373,34 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 
 > *Ақсу аудандық мәслихатының 2024 жылғы «30» желтоқсандағы № 47-208 шешіміне 43-қосымша*
 
-# 2025 жылға арналған Молалы ауылдық округінің бюджеті
-
-> *Ескерту. 43-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
-
 <table>
 <tr>
+<td colspan="6">
+<strong>2025 жылға арналған Молалы ауылдық округінің бюджеті</strong>
+Ескерту. 43-қосымша жаңа редакцияда – Жетісу облысы Ақсу аудандық мәслихатының 13.02.2025 № 50-219 (01.01.2025 бастап қолданысқа енгізіледі); 12.06.2025 № 55-240 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
+</td>
+</tr>
+<tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5279,6 +5408,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5413,22 +5543,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5436,6 +5569,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5459,7 +5593,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>35 361</td>
+<td>35 808</td>
 </tr>
 <tr>
 <td></td>
@@ -5467,7 +5601,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>35 361</td>
+<td>35 808</td>
 </tr>
 <tr>
 <td></td>
@@ -5475,7 +5609,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 361</td>
+<td>35 808</td>
 </tr>
 <tr>
 <td></td>
@@ -5483,7 +5617,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34 461</td>
+<td>34 908</td>
 </tr>
 <tr>
 <td></td>
@@ -5499,7 +5633,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4 176</td>
+<td>3 811</td>
 </tr>
 <tr>
 <td></td>
@@ -5507,7 +5641,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4 176</td>
+<td>3 811</td>
 </tr>
 <tr>
 <td></td>
@@ -5515,7 +5649,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 176</td>
+<td>3 811</td>
 </tr>
 <tr>
 <td></td>
@@ -5523,7 +5657,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 186</td>
+<td>980</td>
 </tr>
 <tr>
 <td></td>
@@ -5531,7 +5665,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>990</td>
+<td>831</td>
 </tr>
 <tr>
 <td></td>
@@ -5547,7 +5681,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>900</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -5555,7 +5689,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>900</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -5563,7 +5697,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>900</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -5571,29 +5705,32 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>900</td>
+<td>818</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5601,6 +5738,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5628,22 +5766,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5682,22 +5823,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5705,6 +5849,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5724,22 +5869,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5771,22 +5919,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td>Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5832,22 +5983,25 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td>Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5855,6 +6009,7 @@ source: https://zan.gov.kz/client/#!/doc/206160/kaz/13.02.2025
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
