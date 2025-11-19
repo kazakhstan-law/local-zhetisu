@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205146/kaz/04.06.2025
+source: https://zan.gov.kz/client/#!/doc/205146/kaz/19.11.2025
 ---
 
 > *Талдықорған қалалық мәслихатының 2024 жылғы 24 желтоқсандағы № 29-174 шешіміне 2-қосымша*
