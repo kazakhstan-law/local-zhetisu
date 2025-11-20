@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205162/kaz/11.06.2025
+source: https://zan.gov.kz/client/#!/doc/205162/kaz/20.11.2025
 ---
 
 > *Сарқан аудандық мәслихатының 2024 жылғы «26» желтоқсандағы № 35-140 шешіміне 3-қосымша*
