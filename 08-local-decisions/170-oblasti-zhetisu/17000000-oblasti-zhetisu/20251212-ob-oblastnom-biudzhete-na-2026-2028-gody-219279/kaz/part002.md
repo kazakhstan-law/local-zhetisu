@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219279/kaz/12.12.2025
+source: https://zan.gov.kz/client/#!/doc/219279/kaz/10.04.2026
 ---
 
 > *Жетісу облыстық мәслихатының 2025 жылғы 12 желтоқсандағы № 33-202 шешіміне 2-қосымша*
