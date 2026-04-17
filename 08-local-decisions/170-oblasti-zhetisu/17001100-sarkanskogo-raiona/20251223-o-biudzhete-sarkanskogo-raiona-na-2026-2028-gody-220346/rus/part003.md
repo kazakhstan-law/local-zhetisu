@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220346/rus/23.12.2025
+source: https://zan.gov.kz/client/#!/doc/220346/rus/17.04.2026
 ---
 
 > *Приложение 3 к решению Сарканского районного маслихата от 23 декабря 2025 года № 51-196*
