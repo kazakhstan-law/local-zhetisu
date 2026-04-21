@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220935/kaz/26.12.2025
+source: https://zan.gov.kz/client/#!/doc/220935/kaz/21.04.2026
 ---
 
 > *Қаратал аудандық мәслихатының 2025 жылғы «26» желтоқсандағы №53-145 шешіміне 5-қосымша*
