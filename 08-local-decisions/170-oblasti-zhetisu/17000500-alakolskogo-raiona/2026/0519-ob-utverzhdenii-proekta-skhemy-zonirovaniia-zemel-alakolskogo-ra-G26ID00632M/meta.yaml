@@ -1,0 +1,26 @@
+key: G26ID00632M
+akn: /akn/kz/act/2026-05-19/G26ID00632M
+act_code: '225538'
+requisite: Решение Алакольского районного маслихата области Жетісу от 19 мая 2026 года № 63-2
+title:
+  rus: Об утверждении проекта (схемы) зонирования земель Алакольского района
+  kaz: Алакөл ауданының жерлерін аймақтарға бөлу жобасын (схемасын) бекіту туралы
+form: РЕШ
+type_codes:
+- ПРОЕ
+- РЕШ
+approved_on: 2026-05-19
+in_force_from: 2026-06-05
+approved_by:
+- '170005000002'
+versions:
+- date: 2026-05-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-05-19
+  rus: 2026-05-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/225538/kaz/19.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/225538/rus/19.05.2026
