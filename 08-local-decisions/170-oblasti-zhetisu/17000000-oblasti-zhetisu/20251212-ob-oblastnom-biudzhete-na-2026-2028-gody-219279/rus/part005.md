@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/219279/rus/10.04.2026
+source: https://zan.gov.kz/client/#!/doc/219279/rus/02.07.2026
 ---
 
 > *Приложение 5 к решению маслихата области Жетісу от 12 декабря года № 33-202*
