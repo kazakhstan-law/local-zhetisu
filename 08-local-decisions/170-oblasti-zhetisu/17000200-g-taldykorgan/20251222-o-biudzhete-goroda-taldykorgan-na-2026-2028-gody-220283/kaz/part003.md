@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220283/kaz/17.04.2026
+source: https://zan.gov.kz/client/#!/doc/220283/kaz/10.07.2026
 ---
 
 > *Талдықорған қалалық мәслихатының 2025 жылғы 22 желтоқсандағы*  

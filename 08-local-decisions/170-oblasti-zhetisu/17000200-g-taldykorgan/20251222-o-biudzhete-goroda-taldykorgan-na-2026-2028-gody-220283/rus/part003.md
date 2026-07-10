@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220283/rus/17.04.2026
+source: https://zan.gov.kz/client/#!/doc/220283/rus/10.07.2026
 ---
 
 > *Приложение 3 к решению Талдыкорганского городского маслихата от 22 декабря 2025 года № 47-258*
